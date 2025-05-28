@@ -1,0 +1,1 @@
+# Documentation-for-clean_up_spark_logs-Function
